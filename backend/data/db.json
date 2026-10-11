@@ -1,0 +1,386 @@
+{
+  "trips": [
+    {
+      "id": "fc2146bc-0d84-4ca7-aa86-11e3c05c0881",
+      "origin": "New York, NY",
+      "destination": "Kyoto, Japan",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-04",
+      "duration_days": 4,
+      "travelers": 2,
+      "budget": 2500.0,
+      "currency": "USD",
+      "trip_summary": "Experience an unforgettable 4-day journey from New York, NY to Kyoto, Japan. Designed specifically for 2 traveler(s) with a moderate travel style, this itinerary seamlessly weaves iconic landmarks, local food discoveries, and cultural highlights within a total budget of 2,500.00 USD.",
+      "budget_breakdown": {
+        "estimated_total_budget": 2500.0,
+        "transportation_estimate": 700.0,
+        "accommodation_estimate": 900.0,
+        "food_estimate": 550.0,
+        "activity_estimate": 350.0,
+        "currency": "USD"
+      },
+      "estimated_total_budget": 2500.0,
+      "transportation_estimate": 700.0,
+      "accommodation_estimate": 900.0,
+      "food_estimate": 550.0,
+      "activity_estimate": 350.0,
+      "day_by_day_itinerary": [
+        {
+          "day_number": 1,
+          "date": "2026-06-01",
+          "title": "Arrival & Iconic City Landmarks in Kyoto, Japan",
+          "morning_activities": [
+            {
+              "title": "Explore the Historic District of Kyoto, Japan",
+              "description": "Begin your morning walking through central plazas, ancient monuments, and admiring local architecture.",
+              "time": "09:00 AM",
+              "location": "Central Plaza & Heritage Quarter, Kyoto, Japan",
+              "estimated_cost": 30.0,
+              "duration": "2.5 hours",
+              "category": "Culture & Heritage"
+            }
+          ],
+          "afternoon_activities": [
+            {
+              "title": "Iconic Museum & Landmark Discovery",
+              "description": "Immerse yourself in top cultural exhibits, panoramic lookouts, and interactive tours tailored to your interests in Culture, Temples, Culinary.",
+              "time": "01:30 PM",
+              "location": "National Cultural Center, Kyoto, Japan",
+              "estimated_cost": 50.0,
+              "duration": "3 hours",
+              "category": "Sightseeing"
+            }
+          ],
+          "evening_activities": [
+            {
+              "title": "Sunset Stroll & Evening Entertainment",
+              "description": "Experience the vibrant nighttime ambiance, waterfront promenade, and cozy illuminated streetscapes.",
+              "time": "06:30 PM",
+              "location": "Promenade & Night Market, Kyoto, Japan",
+              "estimated_cost": 40.0,
+              "duration": "2 hours",
+              "category": "Leisure & Nightlife"
+            }
+          ],
+          "estimated_daily_cost": 225.0,
+          "notes": [
+            "Recommended transport: public transit pass or local metro cards.",
+            "Stay hydrated and reserve top landmark slots 24-48 hours ahead.",
+            "Best lighting for photography is around 08:30 AM and 05:45 PM."
+          ]
+        },
+        {
+          "day_number": 2,
+          "date": "2026-06-02",
+          "title": "Cultural Immersion & Local Markets in Kyoto, Japan",
+          "morning_activities": [
+            {
+              "title": "Explore the Historic District of Kyoto, Japan",
+              "description": "Begin your morning walking through central plazas, ancient monuments, and admiring local architecture.",
+              "time": "09:00 AM",
+              "location": "Central Plaza & Heritage Quarter, Kyoto, Japan",
+              "estimated_cost": 30.0,
+              "duration": "2.5 hours",
+              "category": "Culture & Heritage"
+            }
+          ],
+          "afternoon_activities": [
+            {
+              "title": "Iconic Museum & Landmark Discovery",
+              "description": "Immerse yourself in top cultural exhibits, panoramic lookouts, and interactive tours tailored to your interests in Culture, Temples, Culinary.",
+              "time": "01:30 PM",
+              "location": "National Cultural Center, Kyoto, Japan",
+              "estimated_cost": 50.0,
+              "duration": "3 hours",
+              "category": "Sightseeing"
+            }
+          ],
+          "evening_activities": [
+            {
+              "title": "Sunset Stroll & Evening Entertainment",
+              "description": "Experience the vibrant nighttime ambiance, waterfront promenade, and cozy illuminated streetscapes.",
+              "time": "06:30 PM",
+              "location": "Promenade & Night Market, Kyoto, Japan",
+              "estimated_cost": 40.0,
+              "duration": "2 hours",
+              "category": "Leisure & Nightlife"
+            }
+          ],
+          "estimated_daily_cost": 225.0,
+          "notes": [
+            "Recommended transport: public transit pass or local metro cards.",
+            "Stay hydrated and reserve top landmark slots 24-48 hours ahead.",
+            "Best lighting for photography is around 08:30 AM and 05:45 PM."
+          ]
+        },
+        {
+          "day_number": 3,
+          "date": "2026-06-03",
+          "title": "Nature, Scenic Parks & Panoramas in Kyoto, Japan",
+          "morning_activities": [
+            {
+              "title": "Explore the Historic District of Kyoto, Japan",
+              "description": "Begin your morning walking through central plazas, ancient monuments, and admiring local architecture.",
+              "time": "09:00 AM",
+              "location": "Central Plaza & Heritage Quarter, Kyoto, Japan",
+              "estimated_cost": 30.0,
+              "duration": "2.5 hours",
+              "category": "Culture & Heritage"
+            }
+          ],
+          "afternoon_activities": [
+            {
+              "title": "Iconic Museum & Landmark Discovery",
+              "description": "Immerse yourself in top cultural exhibits, panoramic lookouts, and interactive tours tailored to your interests in Culture, Temples, Culinary.",
+              "time": "01:30 PM",
+              "location": "National Cultural Center, Kyoto, Japan",
+              "estimated_cost": 50.0,
+              "duration": "3 hours",
+              "category": "Sightseeing"
+            }
+          ],
+          "evening_activities": [
+            {
+              "title": "Sunset Stroll & Evening Entertainment",
+              "description": "Experience the vibrant nighttime ambiance, waterfront promenade, and cozy illuminated streetscapes.",
+              "time": "06:30 PM",
+              "location": "Promenade & Night Market, Kyoto, Japan",
+              "estimated_cost": 40.0,
+              "duration": "2 hours",
+              "category": "Leisure & Nightlife"
+            }
+          ],
+          "estimated_daily_cost": 225.0,
+          "notes": [
+            "Recommended transport: public transit pass or local metro cards.",
+            "Stay hydrated and reserve top landmark slots 24-48 hours ahead.",
+            "Best lighting for photography is around 08:30 AM and 05:45 PM."
+          ]
+        },
+        {
+          "day_number": 4,
+          "date": "2026-06-04",
+          "title": "Gastronomy & Hidden Neighborhoods in Kyoto, Japan",
+          "morning_activities": [
+            {
+              "title": "Explore the Historic District of Kyoto, Japan",
+              "description": "Begin your morning walking through central plazas, ancient monuments, and admiring local architecture.",
+              "time": "09:00 AM",
+              "location": "Central Plaza & Heritage Quarter, Kyoto, Japan",
+              "estimated_cost": 30.0,
+              "duration": "2.5 hours",
+              "category": "Culture & Heritage"
+            }
+          ],
+          "afternoon_activities": [
+            {
+              "title": "Iconic Museum & Landmark Discovery",
+              "description": "Immerse yourself in top cultural exhibits, panoramic lookouts, and interactive tours tailored to your interests in Culture, Temples, Culinary.",
+              "time": "01:30 PM",
+              "location": "National Cultural Center, Kyoto, Japan",
+              "estimated_cost": 50.0,
+              "duration": "3 hours",
+              "category": "Sightseeing"
+            }
+          ],
+          "evening_activities": [
+            {
+              "title": "Sunset Stroll & Evening Entertainment",
+              "description": "Experience the vibrant nighttime ambiance, waterfront promenade, and cozy illuminated streetscapes.",
+              "time": "06:30 PM",
+              "location": "Promenade & Night Market, Kyoto, Japan",
+              "estimated_cost": 40.0,
+              "duration": "2 hours",
+              "category": "Leisure & Nightlife"
+            }
+          ],
+          "estimated_daily_cost": 225.0,
+          "notes": [
+            "Recommended transport: public transit pass or local metro cards.",
+            "Stay hydrated and reserve top landmark slots 24-48 hours ahead.",
+            "Best lighting for photography is around 08:30 AM and 05:45 PM."
+          ]
+        }
+      ],
+      "activities": [
+        {
+          "title": "Explore the Historic District of Kyoto, Japan",
+          "description": "Begin your morning walking through central plazas, ancient monuments, and admiring local architecture.",
+          "time": "09:00 AM",
+          "location": "Central Plaza & Heritage Quarter, Kyoto, Japan",
+          "estimated_cost": 30.0,
+          "duration": "2.5 hours",
+          "category": "Culture & Heritage"
+        },
+        {
+          "title": "Iconic Museum & Landmark Discovery",
+          "description": "Immerse yourself in top cultural exhibits, panoramic lookouts, and interactive tours tailored to your interests in Culture, Temples, Culinary.",
+          "time": "01:30 PM",
+          "location": "National Cultural Center, Kyoto, Japan",
+          "estimated_cost": 50.0,
+          "duration": "3 hours",
+          "category": "Sightseeing"
+        },
+        {
+          "title": "Sunset Stroll & Evening Entertainment",
+          "description": "Experience the vibrant nighttime ambiance, waterfront promenade, and cozy illuminated streetscapes.",
+          "time": "06:30 PM",
+          "location": "Promenade & Night Market, Kyoto, Japan",
+          "estimated_cost": 40.0,
+          "duration": "2 hours",
+          "category": "Leisure & Nightlife"
+        },
+        {
+          "title": "Explore the Historic District of Kyoto, Japan",
+          "description": "Begin your morning walking through central plazas, ancient monuments, and admiring local architecture.",
+          "time": "09:00 AM",
+          "location": "Central Plaza & Heritage Quarter, Kyoto, Japan",
+          "estimated_cost": 30.0,
+          "duration": "2.5 hours",
+          "category": "Culture & Heritage"
+        },
+        {
+          "title": "Iconic Museum & Landmark Discovery",
+          "description": "Immerse yourself in top cultural exhibits, panoramic lookouts, and interactive tours tailored to your interests in Culture, Temples, Culinary.",
+          "time": "01:30 PM",
+          "location": "National Cultural Center, Kyoto, Japan",
+          "estimated_cost": 50.0,
+          "duration": "3 hours",
+          "category": "Sightseeing"
+        },
+        {
+          "title": "Sunset Stroll & Evening Entertainment",
+          "description": "Experience the vibrant nighttime ambiance, waterfront promenade, and cozy illuminated streetscapes.",
+          "time": "06:30 PM",
+          "location": "Promenade & Night Market, Kyoto, Japan",
+          "estimated_cost": 40.0,
+          "duration": "2 hours",
+          "category": "Leisure & Nightlife"
+        },
+        {
+          "title": "Explore the Historic District of Kyoto, Japan",
+          "description": "Begin your morning walking through central plazas, ancient monuments, and admiring local architecture.",
+          "time": "09:00 AM",
+          "location": "Central Plaza & Heritage Quarter, Kyoto, Japan",
+          "estimated_cost": 30.0,
+          "duration": "2.5 hours",
+          "category": "Culture & Heritage"
+        },
+        {
+          "title": "Iconic Museum & Landmark Discovery",
+          "description": "Immerse yourself in top cultural exhibits, panoramic lookouts, and interactive tours tailored to your interests in Culture, Temples, Culinary.",
+          "time": "01:30 PM",
+          "location": "National Cultural Center, Kyoto, Japan",
+          "estimated_cost": 50.0,
+          "duration": "3 hours",
+          "category": "Sightseeing"
+        },
+        {
+          "title": "Sunset Stroll & Evening Entertainment",
+          "description": "Experience the vibrant nighttime ambiance, waterfront promenade, and cozy illuminated streetscapes.",
+          "time": "06:30 PM",
+          "location": "Promenade & Night Market, Kyoto, Japan",
+          "estimated_cost": 40.0,
+          "duration": "2 hours",
+          "category": "Leisure & Nightlife"
+        },
+        {
+          "title": "Explore the Historic District of Kyoto, Japan",
+          "description": "Begin your morning walking through central plazas, ancient monuments, and admiring local architecture.",
+          "time": "09:00 AM",
+          "location": "Central Plaza & Heritage Quarter, Kyoto, Japan",
+          "estimated_cost": 30.0,
+          "duration": "2.5 hours",
+          "category": "Culture & Heritage"
+        },
+        {
+          "title": "Iconic Museum & Landmark Discovery",
+          "description": "Immerse yourself in top cultural exhibits, panoramic lookouts, and interactive tours tailored to your interests in Culture, Temples, Culinary.",
+          "time": "01:30 PM",
+          "location": "National Cultural Center, Kyoto, Japan",
+          "estimated_cost": 50.0,
+          "duration": "3 hours",
+          "category": "Sightseeing"
+        },
+        {
+          "title": "Sunset Stroll & Evening Entertainment",
+          "description": "Experience the vibrant nighttime ambiance, waterfront promenade, and cozy illuminated streetscapes.",
+          "time": "06:30 PM",
+          "location": "Promenade & Night Market, Kyoto, Japan",
+          "estimated_cost": 40.0,
+          "duration": "2 hours",
+          "category": "Leisure & Nightlife"
+        }
+      ],
+      "recommended_restaurants": [
+        {
+          "name": "The Heritage Table at Kyoto, Japan",
+          "cuisine": "Authentic Regional Specialty",
+          "price_range": "$$",
+          "address_or_area": "Old Town District, Kyoto, Japan",
+          "highlight_dish": "Chef's Traditional Tasting Platter with Local Spices",
+          "why_recommended": "Beloved by locals for generations with unmatched hospitality and seasonal ingredients."
+        },
+        {
+          "name": "Skyline Vista Lounge",
+          "cuisine": "Modern Fusion & Cocktails",
+          "price_range": "$$$",
+          "address_or_area": "Rooftop Center, Kyoto, Japan",
+          "highlight_dish": "Signature Seared Delicacy & Herbal Infused Mocktail",
+          "why_recommended": "Breathtaking panoramic 360-degree sunset views of the entire destination."
+        },
+        {
+          "name": "Street Food Haven Corner",
+          "cuisine": "Local Street Food",
+          "price_range": "$",
+          "address_or_area": "Central Night Bazaar, Kyoto, Japan",
+          "highlight_dish": "Crispy Handmade Savory Crepes / Skewers",
+          "why_recommended": "High turnover, vibrant atmosphere, and authentic flavors at incredible value."
+        }
+      ],
+      "places_and_activities": [
+        {
+          "name": "Grand Cathedral / Palace of Kyoto, Japan",
+          "type": "Historic & Architectural",
+          "description": "Stunning architectural marvel representing centuries of craftsmanship and cultural identity in Kyoto, Japan.",
+          "best_time_to_visit": "09:00 AM - 11:00 AM",
+          "ticket_cost": "Approx. 15 USD"
+        },
+        {
+          "name": "Kyoto, Japan Panorama Hill & Botanical Sanctuary",
+          "type": "Scenic Nature & Lookouts",
+          "description": "Lush oasis featuring native flora, tranquil walking paths, and unmatched vista points.",
+          "best_time_to_visit": "04:30 PM - 06:30 PM",
+          "ticket_cost": "Free Entry"
+        },
+        {
+          "name": "Artisanal Crafts & Spice Souk",
+          "type": "Shopping & Culture",
+          "description": "Bustling marketplace filled with handmade textiles, aromatic culinary spices, and one-of-a-kind mementos.",
+          "best_time_to_visit": "11:00 AM - 03:00 PM",
+          "ticket_cost": "Free (Shopping extra)"
+        }
+      ],
+      "travel_tips": [
+        "Currency & Payments: Contactless credit cards are widely accepted, but keep around 50-100 USD in cash for small street vendors.",
+        "Navigation: Download offline maps on Google Maps or Apple Maps before heading out.",
+        "Local Etiquette: Tipping norms vary; check local practices, and dress respectfully when visiting religious and heritage sites.",
+        "Connectivity: Pick up an eSIM or local travel SIM card at the airport upon landing."
+      ],
+      "packing_suggestions": [
+        "Comfortable, broken-in walking shoes or breathable sneakers",
+        "Universal power adapter and high-capacity portable power bank",
+        "Weather-appropriate layer (light rain jacket / UV breathable clothing)",
+        "Reusable insulated water bottle & compact day backpack",
+        "Copies of travel insurance, passports, and booking vouchers"
+      ],
+      "is_saved": false,
+      "created_at": "2026-10-04T06:13:40.253085",
+      "ai_generated": true,
+      "live_api_notice": "Estimates are generated based on current travel index averages and AI market models.",
+      "updated_at": "2026-10-04T06:13:40.253209"
+    }
+  ],
+  "users": [],
+  "saved_itineraries": []
+}
