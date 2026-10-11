@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Compass, Sparkles, Bookmark, Plane, Bot } from 'lucide-react';
-import { useTravel } from '../context/TravelContext';
+import { useTravel } from '../context/useTravel';
 
 export const Navbar = () => {
   const location = useLocation();

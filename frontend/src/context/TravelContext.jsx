@@ -1,8 +1,7 @@
-import React, { createContext, useContext, useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import confetti from 'canvas-confetti';
+import { TravelContext } from './TravelContext.shared';
 import { travelApi } from '../api/travelApi';
-
-const TravelContext = createContext();
 
 export const TravelProvider = ({ children }) => {
   const [currentTrip, setCurrentTrip] = useState(() => {
@@ -20,14 +19,14 @@ export const TravelProvider = ({ children }) => {
   const [error, setError] = useState(null);
   const [isAiChatOpen, setIsAiChatOpen] = useState(false);
 
-  const fetchSavedTrips = async () => {
+  const fetchSavedTrips = useCallback(async () => {
     try {
       const data = await travelApi.getSavedTrips();
       setSavedTrips(data || []);
     } catch (err) {
       console.warn('Could not load saved trips:', err.message);
     }
-  };
+  }, []);
 
   // Sync current trip with localStorage
   useEffect(() => {
@@ -42,8 +41,9 @@ export const TravelProvider = ({ children }) => {
 
   // Load saved trips on mount
   useEffect(() => {
+    // oxlint-disable-next-line react/set-state-in-effect
     fetchSavedTrips();
-  }, []);
+  }, [fetchSavedTrips]);
 
   const planTrip = async (formData) => {
     setIsLoading(true);
@@ -213,12 +213,4 @@ export const TravelProvider = ({ children }) => {
       {children}
     </TravelContext.Provider>
   );
-};
-
-export const useTravel = () => {
-  const context = useContext(TravelContext);
-  if (!context) {
-    throw new Error('useTravel must be used within a TravelProvider');
-  }
-  return context;
 };
